@@ -1,6 +1,6 @@
-```
-install_requires=["openpyxl","pandas"]
 ```python
+install_requires=["openpyxl","pandas"]
+```
 
 # Excel Datei einlesen
 
